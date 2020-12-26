@@ -1,0 +1,92 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 11.11.2014 13:17:44
+
+newmtl GLOBAL_Chassis
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Color_Correction_Color Correction.tga
+	map_Kd maps\Color_Correction_Color Correction.tga
+	map_Ks maps\Color_Correction_Color Correction.tga
+
+newmtl GLOBAL_Glass
+	Ns 10.0000
+	Ni 1.5000
+	d 0.6000
+	Tr 0.4000
+	Tf 0.6000 0.6000 0.6000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Color_Correction_Color Correction.tga
+	map_Kd maps\Color_Correction_Color Correction.tga
+	map_Ks maps\Color_Correction_Color Correction.tga
+
+newmtl GLOBAL_Chassis_Simple
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Color_Correction_Color Correction.tga
+	map_Kd maps\Color_Correction_Color Correction.tga
+	map_Ks maps\Color_Correction_Color Correction.tga
+
+newmtl VW_Camper_1965_Chassis
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\01251f8ecff28.dds
+	map_Kd maps\01251f8ecff28.dds
+	map_Ks maps\Color_Correction_Color Correction.tga
+
+newmtl VW_Camper_1965_Lights
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\01251f8ecff28.dds
+	map_Kd maps\01251f8ecff28.dds
+	map_Ks maps\Color_Correction_Color Correction.tga
+
+newmtl GLOBAL_Tyre
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Color_Correction_Color Correction.tga
+	map_Kd maps\Color_Correction_Color Correction.tga
+	map_Ks maps\Color_Correction_Color Correction.tga
